@@ -14,6 +14,7 @@ git push
 echo "git pushing.... Done."
 echo
 
+echo "Pushing to shihabmahamud.github.io"
 cd $1
 git add .
 read -p "please commit massages: " com_mas
