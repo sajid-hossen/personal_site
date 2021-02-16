@@ -6,7 +6,10 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Shihab Mahamud"
 +++
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+
+This page will be added soon
+
+<!-- Hugo is the **world’s fastest framework for building websites**. It is written in Go.
 
 It makes use of a variety of open source projects including:
 
@@ -14,6 +17,6 @@ It makes use of a variety of open source projects including:
 * https://github.com/alecthomas/chroma
 * https://github.com/muesli/smartcrop
 * https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+* https://github.com/spf13/viper -->
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+<!-- Learn more and contribute on [GitHub](https://github.com/gohugoio). -->

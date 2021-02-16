@@ -8,7 +8,6 @@ PygmentsStyle = "monokai"
 
 paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
-# copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
 # googleAnalytics = ""
 # disqusShortname = ""
@@ -59,7 +58,7 @@ disableHugoGeneratorInject = false
   keywords = ""
   images = [""]
 
-  homeSubtitle = "A computer science student doing a diploma in computer engineering"
+  homeSubtitle = "A Computer science student doing Diploma in Computer Engineering"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
